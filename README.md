@@ -1,6 +1,8 @@
 Note :All the questions are compulsory
+
 Create a folder of your name in the format RollNo_Name_Section
-This folder should be created in your respective folders like Hadlwani students will create folder in Answers Haldwani folder similarly Section C students will create folder in Section C folder.
+
+This folder should be created inside the Answers folders 
 Submit your Java files and the screenshot of the code.
 Submit your files before 12 noon, no pull request will be accepted after 12..
 
