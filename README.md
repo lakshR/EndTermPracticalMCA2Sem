@@ -4,7 +4,7 @@ Create a folder of your name in the format RollNo_Name_Section
 
 This folder should be created inside the Answers folders 
 Submit your Java files and the screenshot of the code.
-Submit your files before 12 noon, no pull request will be accepted after 12..
+Duration of exam is 2 hrs so no pullrequest made after 11.30 will bot be accepted.
 
                                                              
                                                               
