@@ -17,5 +17,4 @@ and Question 2 and 3 are compulsory
              
              
              2.   Write a program to demonstrate status of key on Applet window such as KeyPressed, KeyReleased, KeyUp, KeyDown. (5 marks)
-             3.   Write a java program to create a file with your name, save it in the desktop, write some data on the file and then read and print that data into the console.(
-             5 marks)
+             3.   Write a java program to create a file with your name, save it in the desktop, write some data on the file and then read and print that data into the console.(5 marks) 
