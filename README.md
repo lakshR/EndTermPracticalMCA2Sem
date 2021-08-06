@@ -4,7 +4,7 @@ Create a folder of your name in the format RollNo_Name_Section
 
 This folder should be created inside the Answers folders 
 Submit your Java files and the screenshot of the code.
-Duration of exam is 2 hrs so no pullrequest made after 11.30 will bot be accepted.
+Duration of exam is 2 hrs so pullrequest made after 11.30 will bot be accepted.
 
                                                              
                                                               
