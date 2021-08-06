@@ -6,7 +6,7 @@ This folder should be created inside the Answers folders
 Submit your Java files and the screenshot of the code.
 Duration of exam is 2 hrs so pullrequest made after 11.30 will bot be accepted.
 Question 1 has an option
-and Question 1 and 2 are compulsory
+and Question 2 and 3 are compulsory
 
                                                              
                                                               
